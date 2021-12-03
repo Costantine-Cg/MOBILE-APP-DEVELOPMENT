@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="button">CALCULATE</string>
+    <string name="height">Enter height in meter square</string>
+    <string name="weight">Enter Weight in Kg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
